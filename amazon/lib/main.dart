@@ -62,3 +62,4 @@ class AmazonClone extends StatelessWidget {
     );
   }
 }
+//this is main file
