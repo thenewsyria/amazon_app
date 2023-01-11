@@ -2,6 +2,10 @@
 
 Build a functional Amazon Clone with the cross-platform framework, Flutter, with the backend as Firebase. Upon completion of this video, you will learn about Authentication, Database Integration, State Management, Firebase Storage, Firebase Firestore, and much more!
 
+https://user-images.githubusercontent.com/96256695/211783994-3ca33e38-a4b3-47e6-b408-d1f527bfff42.mp4
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
